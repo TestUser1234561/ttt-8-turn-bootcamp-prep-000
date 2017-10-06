@@ -5,3 +5,7 @@ def display_board(cels)
   puts "-----------"
   puts " #{cels[6]} | #{cels[7]} | #{cels[8]} "
 end
+
+def turn(board)
+
+end
